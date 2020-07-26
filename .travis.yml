@@ -4,4 +4,4 @@ php:
   - "7.3"
 install:
   - composer install
-script: ./vendor/bin/phpunit ./app/tests
+script: php ./vendor/bin/phpunit ./app/tests
