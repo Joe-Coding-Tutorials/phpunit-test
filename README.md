@@ -8,4 +8,4 @@ Testing some mvc features with unit tests in php
 
 ![PHP Composer](https://github.com/JoeBennouna/phpunit-test/workflows/PHP%20Composer/badge.svg)
 
-[![JoeBennouna](https://circleci.com/gh/JoeBennouna/phpunit-test.svg?style=svg)](https://app.circleci.com/pipelines/github/JoeBennouna/phpunit-test)
+[![JoeBennouna](https://circleci.com/gh/JoeBennouna/phpunit-test.svg?style=shield)](https://app.circleci.com/pipelines/github/JoeBennouna/phpunit-test)
