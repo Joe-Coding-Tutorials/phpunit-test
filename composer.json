@@ -1,0 +1,15 @@
+{
+    "name": "MVC Model Test",
+    "description": "A simple MVC model for testing and learning purposes",
+    "autoload": {
+        "classmap": [
+            "app/src/",
+            "app/src/controllers/classes",
+            "app/src/core/classes",
+            "app/src/view/classes"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
