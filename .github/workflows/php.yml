@@ -38,6 +38,3 @@ jobs:
 
     - name: Run test suite
       run: composer run-script test
-
-    - name: Actions for Discord
-      uses: Ilshidur/action-discord@0.0.2
