@@ -1,5 +1,5 @@
 {
-    "name": "JoeBennouna/phpunit-test",
+    "name": "jbnona/phpunit-test",
     "description": "A simple MVC model for testing and learning purposes",
     "autoload": {
         "classmap": [
